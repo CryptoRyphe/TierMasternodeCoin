@@ -1,0 +1,9 @@
+Building TierMasternodeCoin
+
+See doc/readme-qt.rst for instructions on building TierMasternodeCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TierMasternodeCoin.
+
+See doc/build-*.txt for instructions on building tiermasternodecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TierMasternodeCoin.
