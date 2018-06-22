@@ -1756,8 +1756,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TierMasternodeCoin address (e.g. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een TierMasternodeCoin adres in (bijv. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TierMasternodeCoin address (e.g. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een TierMasternodeCoin adres in (bijv. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1900,8 +1900,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Het adres om naar te betalen (bijv. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Het adres om naar te betalen (bijv. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1930,8 +1930,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TierMasternodeCoin address (e.g. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een TierMasternodeCoin adres in (bijv. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TierMasternodeCoin address (e.g. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een TierMasternodeCoin adres in (bijv. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1954,8 +1954,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Het adres om het bericht te ondertekenen (bijv. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i) </translation>
+        <source>The address to sign the message with (e.g. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Het adres om het bericht te ondertekenen (bijv. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i) </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2018,8 +2018,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Het adres van het bericht is ondertekend met (bijv. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Het adres van het bericht is ondertekend met (bijv. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2034,8 +2034,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TierMasternodeCoin address (e.g. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een TierMasternodeCoin adres in (bijv. T8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a TierMasternodeCoin address (e.g. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een TierMasternodeCoin adres in (bijv. 18gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2675,8 +2675,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 38787 or testnet: 48787)</source>
-        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 38787 of testnet: 48787)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 39255 or testnet: 49255)</source>
+        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 39255 of testnet: 49255)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2735,8 +2735,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 38788 or testnet: 48788)</source>
-        <translation>Wacht op JSON-RPC-connecties op &lt;poort&gt; (standaard: 38788 of testnet: 48788) </translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 39256 or testnet: 49256)</source>
+        <translation>Wacht op JSON-RPC-connecties op &lt;poort&gt; (standaard: 39256 of testnet: 49256) </translation>
     </message>
     <message>
         <location line="-11"/>
